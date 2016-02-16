@@ -1,0 +1,64 @@
+.navbar-right a {
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  color: #585858;
+}
+
+.spacer {
+  margin-top: 10%;
+}
+
+.bigspacer {
+  margin-top: 15%;
+}
+
+.smallspacer {
+  margin-top: 2%;
+}
+
+.glyphicon {
+  color: #007399;
+}
+
+.bodytext {
+  color: white;
+  font-weight: lighter;
+  font-family: "Roboto", sans-serif;
+  font-size: 25px;
+  padding: 3%;
+}
+
+.line-separator {
+  margin-top: 4%;
+  margin-bottom: 4%;
+  border-bottom: 2px solid #999999;
+}
+
+.signature {
+  text-align: right;
+  font-size: 40px;
+}
+
+.body-panel {
+  background-color: #007399;
+}
+
+.inline-link {
+  text-decoration: none;
+  color:white;
+  font-weight:bold;
+}
+
+.inline-link2 {
+  text-decoration: none;
+  color:white;
+}
+
+.jobs{
+  display:none;
+}
+
+.toggleheader{
+  text-decoration:none;
+  color:black;
+}

@@ -1,0 +1,29 @@
+.container {
+  font-family: "Roboto", sans-serif;
+}
+
+.lead.blog-description {
+  font-size: 16px;
+}
+
+.smallspacer {
+  margin-top: 2%;
+}
+
+.glyphicon {
+  color: #007399;
+}
+
+.blog-header {
+  background-color: #007399;
+  color: white;
+}
+
+.blog-sidebar {
+  margin-top: 5%;
+  text-align: right;
+}
+
+.blog-main {
+  margin-top: 5%;
+}
