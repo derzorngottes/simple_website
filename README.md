@@ -26,6 +26,14 @@ Talking about oneself is hard and takes practice. This project is a great opport
 - Limit your project to anywhere between 1 and 3 three pages.
 - Write clean, well-indented, and readable code. It may take you a little longer, but it'll be easier find bugs.
 
+When you're ready to submit, please add the URLs of the following project assets into the project's README.md file.
+
+Wireframe - http://imgur.com/a/9qzw4
+Production environment - http://robust-swim.surge.sh/index.html
+Finally, submit your work by:
+
+Copying the URL of your project's GitHub clone
+Pasting the URL into the LMS exercise provided by your instructor
 Good luck and have fun!
 
 [Bootstrap]: http://getbootstrap.com/getting-started/
